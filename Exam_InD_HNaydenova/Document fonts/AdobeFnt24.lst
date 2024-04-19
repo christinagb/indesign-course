@@ -1,0 +1,36 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ADYS-Regular
+FamilyName:ADYS
+StyleName:Regular
+MenuName:ADYS
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ADYS-Regular
+WritingScript:Roman
+OutlineFileName:/Users/christina/Downloads/Exam_InD_HNaydenova Folder/Document fonts/ADYS-Regular-V5-4.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:146848
+FileModTime:632078933
+NameArray:0,Mac,4,ADYS
+NameArray:0,Win,1,ADYS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/christina/Downloads/Exam_InD_HNaydenova Folder/Document fonts/AdobeFnt24.lst
+FileLength:545
+FileModTime:735233285
+%EndFont
+
